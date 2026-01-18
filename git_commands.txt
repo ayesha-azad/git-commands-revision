@@ -20,7 +20,7 @@
  1059  git branch -d master
  1060  git remote -v
  1061  git remote -v 
- 1062  git remote set-url origin [Any origin url]
+ 1062  git remote set-url origin https://github.com/[your name]/[your respository]
  1063  git remote -v
  1064  git status
  1065  git add .
