@@ -1,0 +1,26 @@
+1012  clear
+ 1013  git status
+ 1014  git add testing.py
+ 1015  git status
+ 1016  git status
+ 1017  git commit -m "Learning Github Actions"
+ 1018  git status
+ 1019  git rm testing.py
+ 1021  clear
+ 1022  git status
+ 1023  git restore --staged testing.py
+ 1024  git status
+ 1025  clear
+ 1027  history
+  1054  git switch main
+ 1055  git status
+ 1056  git add .
+ 1057  git commit -m "Changed the message"
+ 1058  git push -u origin main
+ 1059  git branch -d master
+ 1060  git remote -v
+ 1061  git remote -v 
+ 1062  git remote set-url origin [Any origin url]
+ 1063  git remote -v
+ 1064  git status
+ 1065  git add .
