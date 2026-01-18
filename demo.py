@@ -6,4 +6,4 @@ def sum():
 
 
 sum()
-API_KEY = "12345-ABCDE"
+API_KEY = "12345-ABCDEFG"
